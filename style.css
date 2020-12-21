@@ -1,7 +1,6 @@
 body
     {
         background-color: lightpink;
-	text-align: center;
     }
 
 h1
@@ -12,6 +11,17 @@ h1
 	color: darkblue;
 	border: solid;
 	border-color: #3C1874;
+	border-radius: 50px;
+    }
+h2
+    {
+	background-color: white;
+	font-face: algerian;
+	font-size: 50px; 
+	color: indianred;
+	text-allign: center;
+	border: solid;
+	border-color: black;
 	border-radius: 50px;
     }
 
@@ -25,18 +35,7 @@ p
 	padding: 15px;              
     }
 
-h2
-    {
-	background-color: white;
-	font-face: algerian;
-	font-size: 50px; 
-	color: indianred;
-	text-allign: center;
-	border: solid;
-	border-color: black;
-	border-radius: 50px;
-	
-    }
+
 
 a:link, a:visited
 	{
