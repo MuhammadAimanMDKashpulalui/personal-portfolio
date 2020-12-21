@@ -13,6 +13,18 @@ h1
 	border-color: #3C1874;
 	border-radius: 50px;
     }
+
+h2
+    {
+        background-color: white;
+	font-face: algerian; 
+	font-size: 50px; 
+	color: indianred;
+	border: solid;
+	border-color: black;
+	border-radius: 50px;
+    }
+
 p
     {
 	background-color: white;
